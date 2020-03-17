@@ -1,0 +1,10 @@
+README.md
+.vs*
+Builds
+Library
+UnityPackageManager
+UnityPlayer.dll
+Galaxy Shooter*
+
+!Assets
+!ProjectSettings
